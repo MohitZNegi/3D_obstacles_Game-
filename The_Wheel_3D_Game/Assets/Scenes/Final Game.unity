@@ -11746,8 +11746,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   v3Force: {x: 0, y: 0, z: 0.1}
-  keyup: 273
-  keydown: 274
+  keyup: 119
+  keydown: 115
 --- !u!114 &2031680132
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11776,8 +11776,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   v3Force: {x: 0.3, y: 0, z: 0}
-  keyup: 275
-  keydown: 276
+  keyup: 100
+  keydown: 97
 --- !u!114 &2031680150
 MonoBehaviour:
   m_ObjectHideFlags: 0
